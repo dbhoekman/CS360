@@ -1,0 +1,7 @@
+D  /
+D  /A
+D  /A/D
+F  /A/x
+D  /B
+D  /C
+F  /x
